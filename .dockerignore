@@ -1,0 +1,7 @@
+.git
+.gitignore
+.vscode
+.gradle
+build
+out
+**/.DS_Store
